@@ -22,8 +22,4 @@ app.get('/product-listing', function(req, res, next) {
     });
 });
 
-app.get('/product-detail', function(req, res, next) {
-    res.render('product-detail', productData.products[0]);
-});
-
 app.listen(3000);

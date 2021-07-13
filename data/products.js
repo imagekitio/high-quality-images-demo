@@ -39,6 +39,16 @@ module.exports = [{
       large: '/images/content/large/product-bike-2.jpg'
     }
   }, {
+    id: 15,
+    name: 'Coke Bottle',
+    type: 'Products',
+    href: 'product-detail',
+    image: {
+      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-bottle-1.jpg',
+      small: '/images/content/small/product-bottle-1.jpeg',
+      large: '/images/content/large/product-bottle-1.jpeg'
+    }
+  }, {
     id: 5,
     name: 'White Dress',
     type: 'Dresses',

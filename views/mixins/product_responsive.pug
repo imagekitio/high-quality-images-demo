@@ -1,0 +1,31 @@
+mixin product_responsive(product)
+
+  article.tm-product-card
+    
+    //- Media
+    div.tm-product-card-media
+      div.tm-ratio.tm-ratio-4-3
+        a.tm-media-box(href= product.href)
+
+          //- Image
+          figure.tm-media-box-wrap
+            if product.image
+              img(src= product.image.small srcset = product.image.original + "?tr=w-300,h-300 300w,"
+                                            + product.image.original + "?tr=w-600,h-600 600w,"
+                                            + product.image.original + "?tr=w-800,h-800 800w"
+                                        sizes = '(max-width: 480px) 80px, 300px')
+            else
+              +icon("image", "3")(class="uk-text-muted")
+
+    //- Body
+    div.tm-product-card-body
+
+      //- Info
+      div.tm-product-card-info
+
+        //- Type
+        div.uk-text-meta.uk-margin-xsmall-bottom= product.type
+
+        //- Title
+        h3.tm-product-card-title
+          a.uk-link-heading(href= product.href)= product.name

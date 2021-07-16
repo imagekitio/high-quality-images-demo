@@ -4,7 +4,7 @@ module.exports = [{
     type: 'Watches',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-watch-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-watch-1.jpg',
       small: '/images/content/small/product-watch-1.jpg',
       large: '/images/content/large/product-watch-1.jpg'
     }
@@ -14,7 +14,7 @@ module.exports = [{
     type: 'Dresses',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-6.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-6.jpg',
       small: '/images/content/small/product-clothes-6.jpg',
       large: '/images/content/large/product-clothes-6.jpg'
     }
@@ -24,7 +24,7 @@ module.exports = [{
     type: 'Books',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-book-2.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-book-2.jpg',
       small: '/images/content/small/product-book-2.jpg',
       large: '/images/content/large/product-book-2.jpg'
     }
@@ -34,7 +34,7 @@ module.exports = [{
     type: 'Bikes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-bike-2.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-bike-2.jpg',
       small: '/images/content/small/product-bike-2.jpg',
       large: '/images/content/large/product-bike-2.jpg'
     }
@@ -44,7 +44,7 @@ module.exports = [{
     type: 'Products',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-bottle-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-bottle-1.jpg',
       small: '/images/content/small/product-bottle-1.jpeg',
       large: '/images/content/large/product-bottle-1.jpeg'
     }
@@ -54,7 +54,7 @@ module.exports = [{
     type: 'Dresses',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-5.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-5.jpg',
       small: '/images/content/small/product-clothes-5.jpg',
       large: '/images/content/large/product-clothes-5.jpg'
     }
@@ -64,7 +64,7 @@ module.exports = [{
     type: 'Watches',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-watch-2.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-watch-2.jpg',
       small: '/images/content/small/product-watch-2.jpg',
       large: '/images/content/large/product-watch-2.jpg'
     }
@@ -74,7 +74,7 @@ module.exports = [{
     type: 'Books',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-book-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-book-1.jpg',
       small: '/images/content/small/product-book-1.jpg',
       large: '/images/content/large/product-book-1.jpg'
     }
@@ -84,7 +84,7 @@ module.exports = [{
     type: 'Clothes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-3.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-3.jpg',
       small: '/images/content/small/product-clothes-3.jpg',
       large: '/images/content/large/product-clothes-3.jpg'
     }
@@ -94,7 +94,7 @@ module.exports = [{
     type: 'Clothes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-1.jpg',
       small: '/images/content/small/product-clothes-1.jpg',
       large: '/images/content/large/product-clothes-1.jpg'
     }
@@ -104,7 +104,7 @@ module.exports = [{
     type: 'Bikes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-bike-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-bike-1.jpg',
       small: '/images/content/small/product-bike-1.jpg',
       large: '/images/content/large/product-bike-1.jpg'
     }
@@ -114,7 +114,7 @@ module.exports = [{
     type: 'Watches',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-watch-3.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-watch-3.jpg',
       small: '/images/content/small/product-watch-3.jpg',
       large: '/images/content/large/product-watch-3.jpg'
     }
@@ -124,7 +124,7 @@ module.exports = [{
     type: 'Clothes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-2.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-2.jpg',
       small: '/images/content/small/product-clothes-2.jpg',
       large: '/images/content/large/product-clothes-2.jpg'
     }
@@ -134,7 +134,7 @@ module.exports = [{
     type: 'Clothes',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-clothes-4.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-clothes-4.jpg',
       small: '/images/content/small/product-clothes-4.jpg',
       large: '/images/content/large/product-clothes-4.jpg'
     }
@@ -144,7 +144,7 @@ module.exports = [{
     type: 'Phones',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/product-mobile-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/product-mobile-1.jpg',
       small: '/images/content/small/product-mobile-1.jpg',
       large: '/images/content/large/product-mobile-1.jpg'
     }
@@ -154,7 +154,7 @@ module.exports = [{
     type: 'Photographs',
     href: 'product-detail',
     image: {
-      original : 'https://ik.imagekit.io/hqimagedemo/hqimage_demo/original/landscape-1.jpg',
+      original : 'https://ik.imagekit.io/ikmedia/hqimage_demo/original/landscape-1.jpg',
       small: '/images/content/small/landscape-1.jpg',
       large: '/images/content/large/landscape-1.jpg'
     }
